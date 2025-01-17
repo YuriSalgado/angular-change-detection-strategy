@@ -33,7 +33,6 @@ src/app
 │
 ├── app.component.html # Template that orchestrates components
 ├── app.component.ts # Root component logic
-├── app.module.ts # Root module of Angular application
 │
 ├── index.html # Landing page
 ├── main.ts # Boostrap Angular
